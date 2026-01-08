@@ -34,3 +34,17 @@ mcr.microsoft.com/dotnet/core/sdk:3.1
 mcr.microsoft.com/dotnet/core/aspnet:3.1
 mcr.microsoft.com/dotnet/sdk:8.0
 mcr.microsoft.com/dotnet/aspnet:8.0
+
+# Jan 8, 2026 at 3:55 am
+rabbitmq:4.2.2-management
+# Jul 2, 2025 at 8:53 pm
+rabbitmq:4.1.1
+# Sep 21, 2023 at 11:56 am
+rabbitmq:3.12.4
+
+# Dec 30, 2025 at 5:03 am
+mongo:6.0.27
+# Oct 25, 2025 at 6:07 am
+mongo:6.0.26
+# Jan 11, 2024 at 1:10 pm
+mongo:4.4.27
